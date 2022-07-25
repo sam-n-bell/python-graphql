@@ -1,3 +1,6 @@
+# Based on
+`https://www.apollographql.com/blog/graphql/python/complete-api-guide/`
+
 # Prerequisites
 
 1. create `.env` at root level
